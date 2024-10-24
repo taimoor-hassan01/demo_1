@@ -9,7 +9,7 @@ export default function Home() {
       {/* <h2 className="bg-blue-500 pl-[200px] text-3xl my-[10px]">Hello world</h2> */}
       {/* <h2 className="bg-[#0866FF] pl-[200px] text-[36px] my-[10px]">Hello world</h2> */}
       {/* <h2 className="bg-[#0866FF] pl-[200px] text-[36px] p-1 my-[10%]">Hello world</h2> */}
-      <h2 className="text-primary my-[10%] bg-secondary text-[36px] ">Hello world</h2>
+      <h2 className="text-primary my-[10%] bg-secondary text-[36px] ">Hello world second time</h2>
     </div>
   )
 }
